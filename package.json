@@ -1,0 +1,13 @@
+{
+  "name": "express-http-controller",
+  "version": "0.0.1",
+  "description": "a fast way to setup controller & routes for express",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wortex17",
+  "license": "ISC"
+}
