@@ -9,5 +9,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Wortex17",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Wortex17/express-http-controller.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Wortex17/express-http-controller/issues"
+  },
+  "homepage": "https://github.com/Wortex17/express-http-controller"
 }
